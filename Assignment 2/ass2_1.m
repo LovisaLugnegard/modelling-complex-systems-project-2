@@ -7,7 +7,7 @@ delta = 0.5; %distance traveled /time step
 R = 2; %radius
 noise = 0.1; %noise parameter
 N = 50; %#of individuals
-p = 0.1;
+p = 1;
 q = 0;
 T = 10000; %# of time steps
 
